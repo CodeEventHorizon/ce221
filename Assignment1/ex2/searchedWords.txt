@@ -1,0 +1,7 @@
+Searched Words: me, you, we, are, they.
+
+me	===234(0.69%)
+you	======586(1.72%)
+we	==148(0.44%)
+are	==164(0.48%)
+they	==101(0.3%)
